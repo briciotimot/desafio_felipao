@@ -1,11 +1,11 @@
-let nome = "Éric"
+let nome = "Fabrício"
 
-let xp = 100000
+let xp = 10000
 
 
 if (xp <= 1000) {
     console.log(`O Herói de nome: ${nome} está no Nível de: Ferro!`)
-} else if (xp =>1001 && xp <= 2000) {
+} else if (xp >=1001 && xp <= 2000) {
     console.log(`O Herói de nome: ${nome} está no Nível de: Bronze!`)
 } else if (xp >= 2001 && xp <= 5000) {
     console.log(`O Herói de nome: ${nome} está no Nível de: Prata!`)
