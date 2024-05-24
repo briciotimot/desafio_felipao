@@ -1,6 +1,6 @@
 let nome = "Éric"
 
-let xp = 100
+let xp = 100000
 
 
 if (xp <= 1000) {
